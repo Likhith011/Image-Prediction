@@ -1,6 +1,14 @@
+<p align="center">
+	<img src="assets/logo.svg" alt="logo" width="360" />
+</p>
+
+<p align="center">
+	<img src="assets/hero.svg" alt="hero banner" width="960" />
+</p>
+
 # Image Predection
 
-A lightweight image Predection web application using a convolutional neural network (CNN).
+A lightweight image predection web application using a convolutional neural network (CNN).
 
 This repository contains code to train, run, and serve an image classification model. It includes training scripts, a saved model, a minimal web UI for uploading images, and utilities for preprocessing and inference.
 
@@ -104,7 +112,7 @@ The script should save a trained model (for example `cnn_model.keras`) into the 
 
 **Configuration & Tips**
 - Ensure `uploads/` exists and is writable by the app process.
-- If using a virtual environment, ensure uses the correct interpreter or activate the venv before running it.
+- If using a virtual environment, ensure it uses the correct interpreter or activate the venv before running it.
 - For production deployment, run the Flask app behind a production WSGI server (e.g., Gunicorn) and put a reverse proxy (e.g., Nginx) in front.
 
 **Contributing**
@@ -128,6 +136,7 @@ For questions or collaboration, open an issue or contact the repository owner.
 
 If you want, I can also:
 - add a `requirements.txt` generated from the environment,
+- update `start.sh` to activate a virtualenv automatically,
 - or add example curl commands for inference.
 
 Feel free to tell me which additions you want next.
