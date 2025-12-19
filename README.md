@@ -1,6 +1,6 @@
-# Image Recognition System
+# Image Predection
 
-A lightweight image recognition web application using a convolutional neural network (CNN).
+A lightweight image Predection web application using a convolutional neural network (CNN).
 
 This repository contains code to train, run, and serve an image classification model. It includes training scripts, a saved model, a minimal web UI for uploading images, and utilities for preprocessing and inference.
 
