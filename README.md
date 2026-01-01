@@ -28,9 +28,6 @@ This repository contains code to train, run, and serve an image classification m
 - Contributing
 - License & Contact
 
-![GitHub stars](https://img.shields.io/badge/stars-Add%20your%20badge-lightgrey)
-![License](https://img.shields.io/badge/license-Add%20LICENSE-lightgrey)
-
 **Project Overview**
 
 This project demonstrates an end-to-end workflow for an image recognition system: data preprocessing, model training, saving a Keras model, and serving predictions through a simple Flask-based web interface.
