@@ -125,7 +125,7 @@ Please include reproducible steps when filing issues.
 
 **License & Contact**
 
-This project does not include a license by default. Add a `LICENSE` file to specify terms (for example, MIT License).
+This project does not include a license by default.
 
 For questions or collaboration, open an issue or contact the repository owner.
 
